@@ -44,8 +44,7 @@ li installare `make`.
 
 ## Preparare la directory
 
-Scaricate un [archivio zip](https://github.com/raffadrummer/sql-
-query/archive/master.zip) di questo tool.
+Scaricate un [archivio zip](https://github.com/raffadrummer/sql-query/archive/master.zip) di questo tool.
 
 Una volta scompattato l'archivio, per usare il tool fate i seguenti passi:
 
