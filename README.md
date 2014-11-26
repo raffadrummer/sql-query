@@ -62,13 +62,13 @@ Una volta scompattato l'archivio, per usare il tool fate i seguenti passi:
   nell'ordine in cui compaiono nella creazione della tabella; usate `\N` per i
   valori `NULL`);
 
- * create uno o più file con estensione `.query.sql` che contengono le query che volete provare.
+* create uno o più file con estensione `.query.sql` che contengono le query che volete provare.
 
- * invocate il comando `make`
+* invocate il comando `make`
 
- * nella directory trovate per ciascun file con estensione `.query.sql` un
-   file con estensione `.query.txt` contentente il risultato delle query e un
-   file con estensione `.query.err` contentente gli eventuali errori.
+* nella directory trovate per ciascun file con estensione `.query.sql` un
+  file con estensione `.query.txt` contentente il risultato delle query e un
+  file con estensione `.query.err` contentente gli eventuali errori.
 
 
 L'archivio contiene una directory `example` costruita secondo le istruzioni
