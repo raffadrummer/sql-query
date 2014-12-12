@@ -76,6 +76,4 @@ punto sopra; l'esempio è tratto dalla pagina
 [Wikipedia](http://en.wikipedia.org/wiki/Join_(SQL)).
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/sql-query?pixel)](https://github.com/igrigorik/ga-beacon)
-
-
+![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/sql-query?pixel)
